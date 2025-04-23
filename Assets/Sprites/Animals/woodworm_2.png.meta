@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      woodworm_2_0: 5791256493385231761
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

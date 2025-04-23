@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      baby_frog_right_jump_0: 1866299530291838042
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

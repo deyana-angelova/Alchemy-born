@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      rabbit_ear_0: 4988075243071518251
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

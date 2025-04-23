@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      turnip_seeds_0: 1556201425842637198
+      turnip_seeds_1: 2442653932242937415
+      turnip_seeds_2: 505513323974862067
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

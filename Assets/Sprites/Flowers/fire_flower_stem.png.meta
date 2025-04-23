@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fire_flower_stem_0: 3597440222029140759
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

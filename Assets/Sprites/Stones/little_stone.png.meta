@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      little_stone_0: 5877292142239673171
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
